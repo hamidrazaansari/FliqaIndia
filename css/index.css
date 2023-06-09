@@ -141,7 +141,7 @@ margin-top: -20px;
    margin: 23px 0;
    height: 402px;
    object-fit: cover;
-   background: url("public/image-74@2x.png");
+   background: url("/public/image-74@2x.png");
    background-size: cover;
  }
 
