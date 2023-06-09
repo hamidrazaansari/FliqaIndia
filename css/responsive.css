@@ -283,13 +283,18 @@
 }
 
 @media(max-width:576px) {
+   
+    .hero img {
+    height: 291px;
+   
+}
     .form input {
         width: 60%;
     }
 
     .trusted-people {
-        height: 2776px;
-    }
+    height: 2188px;
+}
 
     .graphics {
         height: 113px;
@@ -315,6 +320,13 @@
     .blog-img2 {
         width: 82%;
 
+    }
+    .test-details {
+    width: 80% !important;
+    margin: 12px 54px;
+}
+    ..graphic img {
+    margin: 0 37px;
     }
 
     .trnding-blog {
