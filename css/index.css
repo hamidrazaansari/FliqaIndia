@@ -141,7 +141,7 @@ margin-top: -20px;
    margin: 23px 0;
    height: 402px;
    object-fit: cover;
-   background: url("./public/image-74@2x.png");
+   background: url("public/image-74@2x.png");
    background-size: cover;
  }
 
@@ -426,7 +426,7 @@ height:315px;
  }
 
  .ultimate-course {
-   background: url("./public/rectangle-217@2x.png");
+   background: url("public/rectangle-217@2x.png");
    height: 459px;
    border-radius: 10px;
    background-size: cover;
@@ -458,7 +458,7 @@ height:315px;
  }
 
  .career {
-   background: url("./public/image-110@2x.png");
+   background: url("public/image-110@2x.png");
    background-size: cover;
    height: 355px;
    padding: 56px;
