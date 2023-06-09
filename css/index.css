@@ -458,7 +458,7 @@ height:315px;
  }
 
  .career {
-   background: url("public/image-110@2x.png");
+   background: url("../public/image-110@2x.png");
    background-size: cover;
    height: 355px;
    padding: 56px;
