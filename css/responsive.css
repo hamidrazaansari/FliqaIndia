@@ -1,0 +1,359 @@
+@media(max-width:1200px) {
+    .button {
+        width: 100px;
+        height: 35px;
+
+    }
+
+    .features {
+        width: 100%;
+    }
+
+    .graphic-body {
+        width: 40% !important;
+        margin: 0px;
+        margin-top: 20px;
+        margin-left: 10px;
+        font-size: 30px;
+
+    }
+
+    .graphic-img {
+        width: 40% !important;
+    }
+
+    .offer-img {
+        width: 100%;
+    }
+
+    .outreImg {
+        height: 360px;
+        width: 191px;
+    }
+
+    .offer-img {
+        height: 270pxpx;
+    }
+
+    .testimonial-btns {
+        width: 76%;
+        margin: -64px 0 0 210px;
+    }
+
+    .test-details {
+        width: 70% !important;
+    }
+
+    .graphic {
+        width: 30% !important;
+    }
+
+    .graphic img {
+
+        height: 359px;
+    }
+
+    .testmonial-profile {
+        height: 231px;
+        width: 20% !important;
+        margin: 5px auto;
+    }
+
+    .testmonial-profile img {
+        height: 50px;
+        margin: -17px 0px 33px 95px;
+    }
+
+    .testmonial-profile p {
+        font-size: 13px;
+    }
+
+    .sucess-main {
+        width: 100%;
+    }
+    .career button {
+        margin-left: 230px;
+    }
+    .footer {
+        height: 409px;
+    }
+
+}
+
+@media(max-width:992px) {
+    .list-element {
+        height: 300px;
+        text-align: center;
+        background-color: #000;
+    }
+
+    .navBtn {
+        margin: -64px auto;
+        display: flex;
+        width: 50%;
+        justify-content: center;
+    }
+
+    .hero h5 {
+        font-size: 30px;
+    }
+
+    .hero p {
+        font-size: 20px;
+    }
+
+    .trusted-people {
+        height: 755px;
+
+    }
+
+    .features {
+        width: 70%;
+    }
+
+    .Graphic-Section {
+        height: 650px;
+
+    }
+
+    .graphic-body {
+        width: 100% !important;
+        padding: 34px;
+        text-align: center;
+
+    }
+
+    .graphic-img {
+        width: 100% !important;
+    }
+
+    .blog {
+        height: 983px;
+    }
+
+
+    .blog-img {
+        width: 92%;
+
+    }
+
+    .blog-img2 {
+        width: 92%;
+
+    }
+
+    .trnding-blog {
+        margin-top: 19px;
+        margin-bottom: 41px;
+        margin-left: 19px;
+    }
+
+    .Real-wedding {
+        width: 70%;
+    }
+
+    .bgDesign {
+        box-shadow: -77px 156px 99px 79px #BADCDC;
+    }
+
+    .outreImg {
+        height: 360px;
+        width: 260px;
+        margin: 20px auto;
+    }
+
+    .offer-img {
+        height: 315pxpx;
+    }
+
+    .graphic {
+        width: 80% !important;
+    }
+
+    .testmonial-profile {
+        height: 231px;
+        width: 38% !important;
+        margin: 5px auto;
+    }
+
+    .main-award {
+        width: 90% !important;
+    }
+
+    .rewards {
+        height: 628px;
+
+    }
+
+    .All-Item {
+
+        margin: 16px auto;
+
+    }
+
+    .sucess-main {
+        width: 33%;
+    }
+
+    .sucess-main {
+        width: 50%;
+    }
+
+    .success {
+        height: 734px;
+    }
+
+    .career {
+        height: 391px;
+
+    }
+
+
+    .career button {
+        margin-left: 0;
+    }
+     .footer-links{
+        width: 50% !important;
+    }
+    .footer {
+        height: 750px;
+    }
+
+}
+
+
+
+@media(max-width:768px) {
+    .hero h5 {
+        font-size: 20px;
+        margin-top: 0;
+    }
+
+    .hero p {
+        font-size: 15px;
+    }
+
+    .bttn {
+        width: 150px;
+
+    }
+
+    .trusted-people {
+        height: 1123px;
+    }
+
+    .graphics {
+        height: 161px;
+        width: 126px;
+        border: 7px solid black;
+    }
+
+    .testmonial-profile {
+        height: 165px;
+        width: 38% !important;
+        margin: 5px auto;
+    }
+
+    .testmonial-profile img {
+        height: 50px;
+        margin: -17px 0px 33px 48px;
+    }
+
+    .testmonial-profile p {
+        font-size: 6px;
+    }
+
+    .testimonial-btns {
+        width: 95%;
+        margin: 10px 0 0 17px;
+    }
+
+    .rewards {
+        height: 828px;
+
+    }
+
+    .success {
+        height: 770px;
+
+    }
+    .footer {
+        height: 714px;
+    }
+}
+
+@media(max-width:576px) {
+    .form input {
+        width: 60%;
+    }
+
+    .trusted-people {
+        height: 2776px;
+    }
+
+    .graphics {
+        height: 113px;
+        width: 81px;
+        border: 7px solid black;
+    }
+
+    .Graphic-Section {
+        height: 550px;
+
+    }
+
+    .blog {
+        height: 1083px;
+    }
+
+
+    .blog-img {
+        width: 82%;
+
+    }
+
+    .blog-img2 {
+        width: 82%;
+
+    }
+
+    .trnding-blog {
+        margin-top: 19px;
+        margin-bottom: 41px;
+        margin-left: 19px;
+    }
+
+    .rewards {
+        height: 858px;
+
+    }
+
+    .success {
+        height: 1288px;
+
+    }
+
+    .photography {
+        font-size: 25px;
+
+    }
+
+    .ultimate {
+        font-size: 44px;
+        width: 278px;
+    }
+
+    .camera {
+        height: 115px;
+
+    }
+    .footer {
+        background: #131514;
+        height: 895px;
+        padding: 34px;
+    }
+    .footer-links{
+        width: 80% !important;
+    }
+
+}
