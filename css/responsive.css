@@ -291,7 +291,11 @@
     .form input {
         width: 60%;
     }
+    .img {
+  
+    margin: 0 32px;
 
+    }
     .trusted-people {
     height: 2188px;
 }
@@ -366,6 +370,10 @@
     }
     .footer-links{
         width: 80% !important;
+    }
+    .socal {
+       margin: 14px auto;
+
     }
 
 }
