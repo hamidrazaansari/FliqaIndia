@@ -141,7 +141,7 @@ margin-top: -20px;
    margin: 23px 0;
    height: 402px;
    object-fit: cover;
-   background: url('./public/image-74@2x.png');
+   background: url("./public/image-74@2x.png");
    background-size: cover;
  }
 
@@ -188,7 +188,7 @@ margin-top: -20px;
  .blog-img {
    height: 257px;
    width: 100%;
-   background: url('https://www.outlookindia.com/outlooktraveller/public/uploads/articles/travelnews/GOA-SHACKS.jpg');
+   background: url("https://www.outlookindia.com/outlooktraveller/public/uploads/articles/travelnews/GOA-SHACKS.jpg");
    background-size: cover;
    border-radius: 10px;
    margin: 10px 30px;
@@ -197,7 +197,7 @@ margin-top: -20px;
  .blog-img2 {
    height: 257px;
    width: 100%;
-   background: url('https://s.yimg.com/ny/api/res/1.2/Owsi5k9Ym4rlrJyqbRi9Bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2Ng--/https://media.zenfs.com/en/smartasset_475/bcf42cda8004dc371439333bed13491f');
+   background: url("https://s.yimg.com/ny/api/res/1.2/Owsi5k9Ym4rlrJyqbRi9Bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2Ng--/https://media.zenfs.com/en/smartasset_475/bcf42cda8004dc371439333bed13491f");
    background-size: cover;
    border-radius: 10px;
    margin: 10px 30px;
@@ -426,7 +426,7 @@ height:315px;
  }
 
  .ultimate-course {
-   background: url(./public/rectangle-217@2x.png);
+   background: url("./public/rectangle-217@2x.png");
    height: 459px;
    border-radius: 10px;
    background-size: cover;
@@ -458,7 +458,7 @@ height:315px;
  }
 
  .career {
-   background: url('./public/image-110@2x.png');
+   background: url("./public/image-110@2x.png");
    background-size: cover;
    height: 355px;
    padding: 56px;
